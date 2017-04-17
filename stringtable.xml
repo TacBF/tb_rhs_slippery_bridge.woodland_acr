@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Bridge">
+
+	<Key ID="STR_TB_missionTitle_TB_Bridge">
+		<Original>Slippery Bridge</Original>
+		<English>Slippery Bridge</English>
+		<German>Slippery Bridge</German>
+		<Italian>Slippery Bridge</Italian>
+		<Spanish>Slippery Bridge</Spanish>
+		<French>Slippery Bridge</French>
+		<Czech>Slippery Bridge</Czech>
+		<Russian>Slippery Bridge</Russian>
+		<Polish>Slippery Bridge</Polish>
+		<Hungarian>Slippery Bridge</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Bridge">
+		<Original>TacBF A&amp;S[T-10]: Slippery Bridge</Original>
+		<English>TacBF A&amp;S[T-10]: Slippery Bridge</English>
+		<German>TacBF A&amp;S[T-10]: Slippery Bridge</German>
+		<Italian>TacBF A&amp;S[T-10]: Slippery Bridge</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Slippery Bridge</Spanish>
+		<French>TacBF A&amp;S[T-10]: Slippery Bridge</French>
+		<Czech>TacBF A&amp;S[T-10]: Slippery Bridge</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Slippery Bridge</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Slippery Bridge</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Slippery Bridge</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

@@ -1,0 +1,13 @@
+#define TB_loadingScreen_imagePath "Bridge.jpg"
+//#define TB_loadingScreen_imagePath "\a3\ui_f\data\Logos\arma3_expansion_ca.paa"
+
+onLoadName=$STR_TB_missionTitle_TB_Bridge;
+overviewPicture = "Bridge.jpg";
+author="Gunther.S (TacBF Team)";
+onLoadMission="Tactical Battlefield: Advance and Secure.";
+
+#include "tb_description.sqh"
+#include "tb_settings.hpp"
+#include "tb_objectReplacements.hpp"
+#include "tb_magazineLimitations.hpp"
+#include "tb_supply.hpp"
